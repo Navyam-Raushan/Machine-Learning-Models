@@ -1,27 +1,26 @@
-# Machine Learing Models
-It consist Machine Learning Models as well as Deep Lerning Models
+# Machine Learning Models
 
-## Bulldozer_Price_Prediction_Regression_Problem
+![License](https://img.shields.io/badge/license-MIT-green)
 
+## Description
 
-## Model
-The regression model used in this project is [Random Forest Regression]. 
+Provide a brief description of your project here. Explain what the repository is about and what problems it solves.
 
-## Results
-The model achieved an RMSLE of [0.2447] on the test dataset.
+## Table of Contents
 
-# Dog Breed Identification Model
-It Takes input as image and tries to predict the breed of the dogs from selected 120 unique breeds
-Its a kaggle Competition Project 
-More Details on Collab link
-- [Collab Link](https://colab.research.google.com/github/Navyam-Raushan/Bulldozer_Price_Prediction_Regression_Problem/blob/main/Dog_breed_identification.ipynb#scrollTo=8DEPzxiP-5ip)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Contributors
-- [Navyam Raushan](https://github.com/Navyam-Raushan)
+## Features
 
-Feel free to contribute by forking this repository and submitting a pull request.
+- **Dog Breed Identification**: Classify images of dogs into various breeds using a convolutional neural network.
+- **Loan Defaulter Classification**: Predict whether a loan applicant is likely to default on a loan based on their financial information.
+- **Heart Disease Patient Classification**: Identify whether a patient is at risk of heart disease based on medical data.
+- **Bulldozer Sales Prediction Analysis**: Uses ensemble Regression Models to predict the sales of Bulldozers and Analysis of sales over time.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
+## Google Collab Links
+-  **Dog Breed Identification** - (
