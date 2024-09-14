@@ -4,7 +4,9 @@
 
 ## Description
 
-Provide a brief description of your project here. Explain what the repository is about and what problems it solves.
+This Repo is the collection of Models which solve different business problems.
+Explore Google Collab links for that.
+
 
 ## Table of Contents
 
@@ -23,4 +25,8 @@ Provide a brief description of your project here. Explain what the repository is
 - **Bulldozer Sales Prediction Analysis**: Uses ensemble Regression Models to predict the sales of Bulldozers and Analysis of sales over time.
 
 ## Google Collab Links
--  **Dog Breed Identification** - (
+- **[Dog Breed Identification](https://colab.research.google.com/github/Navyam-Raushan/Bulldozer_Price_Prediction_Regression_Problem/blob/main/Dog_breed_identification.ipynb)** - Click here to explore the model for identifying different dog breeds.
+- **[Loan Defaulter Classification](https://colab.research.google.com/github/Navyam-Raushan/Machine-Learning-Models/blob/main/Loan_Default_Prediction.ipynb)** - Click here to review the classification model for predicting loan defaults.
+- **[Heart Disease Patient Classification](https://colab.research.google.com/github/Navyam-Raushan/Machine-Learning-Models/blob/main/heart_disease_classification_project.ipynb)** - Click here to see the classification model for predicting heart disease in patients.
+- **[Bulldozer Sales Prediction](https://colab.research.google.com/github/Navyam-Raushan/Bulldozer_Price_Prediction_Regression_Problem/blob/main/Buldozer_Price_Prediction_Regression.ipynb)** - Click here to examine the regression model for predicting bulldozer sales.
+
